@@ -1,4 +1,4 @@
 import "./styles.css";
-import showMenu from "./showMenu";
+import { showMenu } from "npm-practice-dropdown_menu";
 
 showMenu();
